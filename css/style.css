@@ -307,6 +307,8 @@
 .container .cards-block .card p {
     text-transform: uppercase;
     height: 40px;
+    display: flex;
+    align-items: center;
 }
 .container .slider {
     max-width: 850px;
